@@ -26,4 +26,5 @@ title: "Reproducible and Collaborative Practices"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+add a new section
 
